@@ -3,9 +3,9 @@
 ### TCC - Ciência da Computação / Mackenzie - 2020
 
 ### Integrantes:
-Leonardo Shun Mendes de Rosa (LeShuno)
-Lucas Fernandez Nicolau (lucasfnicolau)
-Thiago Akio Orlando Kumagai (KumagaiT)
+- Leonardo Shun Mendes de Rosa (LeShuno)
+- Lucas Fernandez Nicolau (lucasfnicolau)
+- Thiago Akio Orlando Kumagai (KumagaiT)
 
 ### Referências de código:
 https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
