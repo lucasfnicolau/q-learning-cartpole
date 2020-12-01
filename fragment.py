@@ -1,5 +1,6 @@
 import gym
 import numpy as np
+import random
 
 # Criação da q-table utilizando um dicionário
 q_table = {}
