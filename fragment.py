@@ -36,7 +36,7 @@ def train(GAMMA, alpha, epsilon, iterations=3001):
 
         while not done:
             # Definição da ação a ser realizada
-            # utilizando a técnica greedy-epsilon
+            # utilizando a técnica epsilon-greedy
             if random.uniform(0, 1) < epsilon:
                 action = env.action_space.sample() # 'Explore'
             else:
